@@ -1,0 +1,2 @@
+language: java
+spript: ant default run
